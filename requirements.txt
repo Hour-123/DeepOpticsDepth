@@ -1,0 +1,16 @@
+# PyTorch with CUDA (adjust for your CUDA version)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific computing
+numpy<2.0
+scipy
+matplotlib
+imageio
+
+# Progress bar
+tqdm
+
+# TensorBoard for logging
+tensorboard
+
