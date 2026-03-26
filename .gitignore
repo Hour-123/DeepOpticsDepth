@@ -1,0 +1,20 @@
+# 忽略数据集文件
+*.npz
+data/
+
+# 忽略训练产生的权重和日志
+checkpoints/
+results/
+*.pth
+
+# 忽略环境和依赖文件
+.claude/
+.vscode/
+
+# 忽略一些文件
+test_normalization.py
+
+# 忽略 Python 缓存和系统文件
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/

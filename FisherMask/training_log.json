@@ -1,0 +1,23 @@
+{
+  "timestamp": "20260326_112553",
+  "device": "cuda",
+  "num_modes": 55,
+  "low_order_num": 15,
+  "low_order_scale": 1e-07,
+  "high_order_scale": 5e-08,
+  "learning_rate": 2e-09,
+  "num_iterations": 3000,
+  "aperture_size": 23,
+  "wavelengths": {
+    "R": 6.100000000000001e-07,
+    "G": 5.3e-07,
+    "B": 4.7000000000000005e-07
+  },
+  "phi_range": [
+    -10.0,
+    10.0
+  ],
+  "zernike_basis_file": "zernike_basis.mat",
+  "final_loss": 51.88876626765507,
+  "total_iterations": 3000
+}
