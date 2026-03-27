@@ -1,0 +1,4 @@
+Timestamp: 20260326_223735
+Checkpoint dir: /root/DeepOpticsDepth/checkpoints/20260326_223735
+Results dir: /root/DeepOpticsDepth/results/20260326_223735
+Log dir: /root/DeepOpticsDepth/results/20260326_223735/logs
