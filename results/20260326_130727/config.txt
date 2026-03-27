@@ -1,0 +1,4 @@
+Timestamp: 20260326_130727
+Checkpoint dir: /root/DeepOpticsDepth_multiHeight/checkpoints/20260326_130727
+Results dir: /root/DeepOpticsDepth_multiHeight/results/20260326_130727
+Log dir: /root/DeepOpticsDepth_multiHeight/results/20260326_130727/logs
